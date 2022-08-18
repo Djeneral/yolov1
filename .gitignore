@@ -1,0 +1,13 @@
+*.png
+*.npy
+__pycashe__
+datasets/
+epoch118/
+epoch219/
+epoch300/
+training_1/
+training_2/
+training_3/
+training_4/
+training_5/
+*.txt
